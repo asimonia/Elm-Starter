@@ -1,3 +1,7 @@
+# All you need to get started with Elm
+
+![Image](http://www.fictorians.com/wp-content/uploads/2017/03/its-dangerous-to-go-alone-take-this.jpg)
+
 # Install Node.js and NPM
 Use NPM to install the Elm Platform and other related tools as npm packages.
 

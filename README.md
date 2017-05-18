@@ -39,6 +39,5 @@ The Elm Platform is a bundle of all the core development tools you'll use to cre
 
 
 # Examples
-
-[Counter in Elm](https://github.com/asimonia/ElmCounter)
-[Dice Roll](https://github.com/asimonia/ElmDieRoll)
+1. [Counter](https://github.com/asimonia/ElmCounter)
+2. [Dice Roll](https://github.com/asimonia/ElmDieRoll)

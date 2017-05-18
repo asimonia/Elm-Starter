@@ -36,3 +36,9 @@ The Elm Platform is a bundle of all the core development tools you'll use to cre
 2. Configuring your editor of choice to use an [Elm syntax highlighting plugin](https://guide.elm-lang.org/install.html) is highly recommended. On that page, select your editor and you'll be taken to an appropriate Elm plugin. Note: Tab characters are syntax errors in Elm, so make sure your editor is configured to convert tabs to spaces!
 
 3. Finally, install [elm-format](https://github.com/avh4/elm-format). It automatically formats Elm code to the community standards.  Check out the `elm-format` documentation for instructions on how to enable the format-on-save option. You want the version that's compatible with Elm 0.18.
+
+
+# Examples
+
+[Counter in Elm](https://github.com/asimonia/ElmCounter)
+[Dice Roll](https://github.com/asimonia/ElmDieRoll)
